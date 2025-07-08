@@ -24,3 +24,8 @@ QuantumBookStore/
 │   └── EBookFileType.cs       # E-book file format enumeration
 └── Program.cs                 # Main entry point with test execution
 ```
+
+## Screenshots
+
+![alt text](./screenshots/image1.png)
+![alt text](./screenshots/image2.png)
